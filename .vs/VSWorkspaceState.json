@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\components",
+    "\\components\\topBar",
+    "\\components\\userDetail",
+    "\\components\\userList",
+    "\\components\\userPhotos",
+    "\\images",
+    "\\lib",
+    "\\modelData",
+    "\\styles"
+  ],
+  "SelectedNode": "\\components\\topBar\\TopBar.jsx",
+  "PreviewInSolutionExplorer": false
+}
